@@ -1,0 +1,2 @@
+# Practicando_Ejercicios_Divide_and_Conquer
+Practicando ejercicios Divide and Conquer
